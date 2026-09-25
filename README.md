@@ -24,7 +24,7 @@ The system allows users to configure a crash scenario and obtain:
 - What-if scenario comparison
 - Model performance information
 
-> **Important:** This is a research and portfolio demonstration. The model estimates patterns associated with serious/fatal outcomes among crashes represented in CRSS. It does not predict whether an autonomous vehicle will crash and should not be interpreted as a causal safety model.
+> **Important:** This is a research demonstration. The model estimates patterns associated with serious/fatal outcomes among crashes represented in CRSS. It does not predict whether an autonomous vehicle will crash and should not be interpreted as a causal safety model.
 
 ---
 
