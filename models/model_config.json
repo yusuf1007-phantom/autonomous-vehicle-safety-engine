@@ -1,0 +1,40 @@
+{
+    "model_name": "XGBoost V2",
+    "version": "1.0",
+    "threshold": 0.6,
+    "target": "Serious/Fatal Injury",
+    "target_definition": {
+        "0": "No apparent, possible, or suspected minor injury",
+        "1": "Suspected serious or fatal injury"
+    },
+    "dataset": "NHTSA CRSS 2024",
+    "roc_auc": 0.7685,
+    "pr_auc": 0.3582,
+    "threshold_f1": 0.3938,
+    "threshold_precision": 0.3135,
+    "threshold_recall": 0.5292,
+    "features": [
+        "REGIONNAME",
+        "URBANICITYNAME",
+        "MONTHNAME",
+        "DAY_WEEKNAME",
+        "HOUR",
+        "MAN_COLLNAME",
+        "RELJCT1NAME",
+        "RELJCT2NAME",
+        "TYP_INTNAME",
+        "REL_ROADNAME",
+        "LGT_CONDNAME",
+        "WEATHERNAME",
+        "INT_HWYNAME",
+        "SPEEDRELNAME",
+        "VSPD_LIMNAME",
+        "VSURCONDNAME",
+        "VALIGNNAME",
+        "VPROFILENAME",
+        "VTRAFWAYNAME",
+        "VNUM_LANNAME",
+        "VTRAFCONNAME",
+        "P_CRASH1NAME"
+    ]
+}

@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Agent/editor metadata
+.agents/
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Test/cache files
+.pytest_cache/
+.coverage
+htmlcov/
