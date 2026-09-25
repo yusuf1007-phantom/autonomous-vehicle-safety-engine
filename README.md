@@ -1,4 +1,4 @@
-# Autonomous Vehicle Safety Intelligence Engine
+# Autonomous Vehicle Safety Intelligence
 
 An end-to-end machine learning application for screening serious/fatal crash severity patterns using the **NHTSA Crash Report Sampling System (CRSS) 2024** dataset.
 
